@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/ninghao/webapp-s01-pages",
-  "author": "wanghao8080",
+  "author": "NanJiang327",
   "license": "MIT",
   "devDependencies": {
     "apache-server-configs": "^2.14.0",
