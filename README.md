@@ -1,35 +1,24 @@
-## Download
+## Range Rover Sample
+A responsive sample range rover site for practicing HTML, CSS and Semantic-ui
+
+## Build setup
 
 ```
-git clone git@github.com:NanJiang327/IFE2018.git
-```
-
-## Install
-
-```
-cd LearnNH/Websample
+# install dependencies
 yarn install
 
-```
-
-## Semantic
-
-```
-gulp build-ui
-```
-
-## Watch Semantic
+# serve with hot reload at localhost:3000
+gulp server
 
 ```
-gulp watch-ui
-```
+## Tech stack
+- Gulp
+- babel
+- sass
+- semantic-ui
+- enquire.js
 
-## Local Server
-```
-gulp serve
-```
-
-## Look
+## Screenshots
 
 ### Big devices
 ![Image text](https://github.com/NanJiang327/IFE2018/blob/master/imgs/big_device.png?raw=true)
